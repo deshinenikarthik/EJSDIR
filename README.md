@@ -23,11 +23,11 @@ Ensure you have **Node.js** installed on your system.
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/deshinenikarthik/EJSDIR.git
+   git https://github.com/deshinenikarthik/Express.js-Dynamic-Web-App.git
    ```
 2. Navigate into the project directory:
    ```sh
-   cd EJSDIR
+   cd Express.js-Dynamic-Web-App
    ```
 3. Install dependencies:
    ```sh
